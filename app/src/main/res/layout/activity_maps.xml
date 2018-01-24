@@ -7,16 +7,45 @@
     android:layout_height="match_parent"
     tools:context="com.example.parthmakadiya.maps.MapsActivity" >
 
-    <Button
+      <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="right|top"
         android:text="Re-Locate"
         android:padding="10dp"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="45dp"
         android:paddingRight="10dp"
         android:id="@+id/btnGeo"
         />
-
+   <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left|top"
+        android:text="Reach Here"
+        android:padding="10dp"
+        android:layout_marginTop="45dp"
+        android:paddingLeft="10dp"
+        android:id="@+id/btnReach"
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right|top"
+        android:text="Contact"
+        android:padding="10dp"
+        android:layout_marginTop="90dp"
+        android:paddingLeft="10dp"
+        android:id="@+id/cont"
+        />
+    <Spinner
+        android:id="@+id/pspinner"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:backgroundTint="#d11f08"
+        android:background="@color/cast_expanded_controller_ad_label_background_color"
+        android:layout_marginTop="2dp"
+        android:paddingRight="1dp"
+        />
 
     </fragment>

@@ -29,14 +29,15 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.google.android.gms.maps.model.LatLng;
+
 class Geolocate extends Activity implements OnClickListener {
 
     private LocationManager locationMangaer = null;
     private LocationListener locationListener = null;
 
     private Button btnGetLocation = null;
-    private EditText editLocation = null;
-    private ProgressBar pb = null;
+
 
     private static final String TAG = "Debug";
     private Boolean flag = false;
@@ -51,11 +52,6 @@ class Geolocate extends Activity implements OnClickListener {
         setRequestedOrientation(ActivityInfo
                 .SCREEN_ORIENTATION_PORTRAIT);
 
-        pb = (ProgressBar) findViewById(R.id.progressBar1);
-        pb.setVisibility(View.INVISIBLE);
-
-        editLocation = (EditText) findViewById(R.id.editTextLocation);
-
         btnGetLocation = (Button) findViewById(R.id.btnLocation);
         btnGetLocation.setOnClickListener(this);
 
@@ -63,8 +59,7 @@ class Geolocate extends Activity implements OnClickListener {
                 getSystemService(Context.LOCATION_SERVICE);
 
 
-
-    }
+          }
 
     @Override
     public void onClick(View v) {
@@ -73,13 +68,9 @@ class Geolocate extends Activity implements OnClickListener {
 
             Log.v(TAG, "onClick");
 
-            editLocation.setText("Please!! move your device to" +
-                    " see the changes in coordinates." + "\nWait..");
-
-            pb.setVisibility(View.VISIBLE);
             locationListener = new MyLocationListener();
-            MyLocationListener s=new MyLocationListener();
-           
+
+
 
 
             if (ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
@@ -156,23 +147,7 @@ class Geolocate extends Activity implements OnClickListener {
 
     /*----------Listener class to get coordinates ------------- */
     private class MyLocationListener implements LocationListener {
-        public void getLastKnownLocation(Location loc){
-            editLocation.setText("");
-            pb.setVisibility(View.INVISIBLE);
-            Toast.makeText(
-                    getBaseContext(),
-                    "Location changed: Lat: " + loc.getLatitude() + " Lng: "
-                            + loc.getLongitude(), Toast.LENGTH_SHORT).show();
-            String longitude = "Longitude: " + loc.getLongitude();
-            Log.v(TAG, longitude);
-            String latitude = "Latitude: " + loc.getLatitude();
-            Log.v(TAG, latitude);
 
-
-            String s = longitude + "\n" + latitude ;
-
-            editLocation.setText("Enjoy Working");
-        }
         @Override
         public void onLocationChanged(Location loc) {
             double lat=loc.getLatitude();
@@ -180,8 +155,6 @@ class Geolocate extends Activity implements OnClickListener {
             Context context = getApplicationContext();
             Toast toast = Toast.makeText(context, "log"+loc+"lat"+lat, Toast.LENGTH_SHORT);
             toast.show();
-            editLocation.setText("");
-            pb.setVisibility(View.INVISIBLE);
             Toast.makeText(getBaseContext(),"Location changed : Lat: " +
                             loc.getLatitude()+ " Lng: " + loc.getLongitude(),
                     Toast.LENGTH_SHORT).show();
@@ -189,25 +162,12 @@ class Geolocate extends Activity implements OnClickListener {
             Log.v(TAG, longitude);
             String latitude = "Latitude: " +loc.getLatitude();
             Log.v(TAG, latitude);
+            Toast.makeText(Geolocate.this,"lat "+latitude+" long "+longitude,Toast.LENGTH_SHORT).show();
 
     /*----------to get City-Name from coordinates ------------- */
-            String cityName=null;
-            Geocoder gcd = new Geocoder(getBaseContext(),
-                    Locale.getDefault());
-            List<Address>  addresses;
-            try {
-                addresses = gcd.getFromLocation(loc.getLatitude(), loc
-                        .getLongitude(), 1);
-                if (addresses.size() > 0)
-                    System.out.println(addresses.get(0).getLocality());
-                cityName=addresses.get(0).getLocality();
-            } catch (IOException e) {
-                e.printStackTrace();
-            }
-
-            String s = longitude+"\n"+latitude +
-                    "\n\nMy Currrent City is: "+cityName;
-            editLocation.setText(s);
+             String s = longitude+"\n"+latitude +
+                    "\n\nMy Currrent City is: ";
+            Toast.makeText(Geolocate.this,s,Toast.LENGTH_SHORT).show();
         }
 
         @Override

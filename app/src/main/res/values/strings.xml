@@ -1,4 +1,21 @@
 <resources>
     <string name="app_name">Maps</string>
     <string name="title_activity_maps">Map</string>
+    <string name="Glat">null</string>
+    <string name="Glong">null</string>
+    <string name="login_error_message">Error On Login</string>
+    <string name="login_error_title">Login Error</string>
+    <string name="signup_error_message">Signup Login Error</string>
+    <string name="signup_error_title">Signup Login Error</string>
+    <string name="ok">Okey</string>
+    <string-array name="uvpcearray">
+        <item>CE IT EC Marine Dept</item>
+        <item>Civil EE Bio Dept</item>
+        <item>ME MC Dept.</item>
+        <item>Univesity Building</item>
+        <item>Tennis Court</item>
+        <item>Canteen</item>
+        <item>Mtech Building</item>
+    </string-array>
+    <string name="title_activity_map2_draw">Map</string>
 </resources>

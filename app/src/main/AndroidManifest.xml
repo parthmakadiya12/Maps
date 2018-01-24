@@ -38,7 +38,13 @@
             </intent-filter>
         </activity>
         <activity android:name=".View" />
-        <activity android:name=".Geolocate"></activity>
+        <activity android:name=".ReachGanpat" />
+        <activity android:name=".ContactUs" />
+        <activity android:name=".Signup" />
+        <activity android:name=".Signin" />
+        <activity
+            android:name=".Map2Draw"
+            android:label="@string/title_activity_map2_draw"></activity>
     </application>
 
 </manifest>

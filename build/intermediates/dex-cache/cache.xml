@@ -1,0 +1,1157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\22100158b50f90c0e3f47be6c6ab5de8cec3afdc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c366ef8d26774031b1267242eafc2a842d174764\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\69914b80a9da8ea87b39e9e0f6cffb9e51c8df11\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_109c25d110e2ac706654084a3a2e0b4b0bb70c93\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-10.0.1_a16ca8394d486e1f30f56695ddfed1b966f0de86.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\159cd8f04144659739dfaa2990b7d386be1ca80d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0242a5e8948a0b8ae089a00d34242fd22973017c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\46b723dc71bec8c5e47c152a69d5d72fc4961ce1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b565bbc3196ea6122bd02f6c16be7c3515d4518c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-10.0.1_ae5c4517b29b9d2f3a1b1bb1c9154f2b9e0d40b7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\51ab620f8afe6533f03d23172028d759ffa27e25\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aa5e930e52b7b8c1f0142299078270af8456f9bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\0e0787118971e2d86d248c9d3df8125cb9e13b18\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2f2bac88b8b47c3084b6d4915341fd454c440a4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\f12cbb4af81887baa32e3a52a6a134b7c7d0613d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bb4a366e99a38aab5bfd38bed47ee7f0ea87131e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_50ac1c3736fdf0ca96be2bd1d000f0f383ebc7d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-10.0.1_6fc1056eb96759d787f146dde87fc1e2e6426053.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-10.0.1_2874e9deaa8cd5b612f3d7ed783ddce3c7e82706.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-10.0.1_4630cca355b4291517b53f9484a8b338ff403554.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.0.1_00373a67f9a8657cc21f0af6b55acee33fe665b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-10.0.1_49a64afa09cc128bdac7a3c14514af2e55f3523c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-config-10.0.1_48c63b295d148936430befa09d2159e56a176038.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\59277e49f95819fc43b873bcd3da8d1c543e77a4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1080b5409b7af14ec4804abe0df1d60c7e5bd482\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\bece8630a81f1ad27b01b2b55189f9f30b4ddce4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a9e7f38c09ab91148d230da24308558eb93e8d76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\d0295562e4e61e8c6ef8afb8735c3ec48ebf14f7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4c22074196f4f2f6469ff936f1a6819a85812ce6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\4de5ea4080c15216623516c2a57bf39e475b3526\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a30530b280230c4ebd90dfe90667b8d0fbca1723\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\9c46903f1f12b6ffadb7735cab96a0306937dc64\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d0b70e123d86d208d24a98f21f4aa746e0a91bf3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\b3045471f21eac5734ff7524ea0496b314b2eee6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_622e0de567f4145617b951cc22bd8cd4f4055470\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-10.0.1_d29f1b6c1be917d65ccadea8652f48abb3114306.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_473d15665614586097af73e01f3afb80ac219065.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_dd6d50242aceb68fa641c7da00019c0e675477c7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\cbffc0f75ab70eefb2cf9edc3e2d80aa6366c479\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a78fae5d99e96eb04d9583cc6adad290e50cad58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\7223b86c515dbd5a0b54cd2d6f42daf641002a2f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a6f0432e47b06f989949b54daaadcd11c7c5214a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.0.1_07886fbebe407844079c6079b675c81d60fba11e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\19e7ec29edc294dab7c4b33c40cfef1b9cc1d2e1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0448273fd52f1fba407c35bfb353b222e50a79df\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-instantapps-10.0.1_6e52e26aae1f4b70cacc1e1a2e8cc26320fbef89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_ff87cf1327fa7d6bd0bc6e3a2f49d1d1fe949189.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_f3a8c99c6689f4d9d0befe5996c354eaca58e890.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-awareness-10.0.1_2399767b6b8a669a4350a2b3fe1ac2d144c9bccc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\cded3dd7966da34974b9bed8006e85d6b69489b9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_83c8c564a493a3241638d835f125ee14214fc354\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-10.0.1_3da5ce413f07f7333f6db814ac3a0193fee58a1a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\f5ac06ab06204508b1f12c5c6a2a05ecba16b1c2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a84c88f92c4a365b62d3629f00403245cd97816e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\3f7381866a43215677475ea8fe2b53ece045ce9f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0738dcaef32ba6f1793024bed2730e550b581138\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\1f163ea6a66912389de4cbd8e456ae5b66e36835\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_580d642bea2d66f8f54ad72ce40278956343f65e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\84219bcd99d275d6571c5476721c716cb1c82482\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9dce742dd52e7950e516ac46e567a60fc9151c2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-10.0.1_a842087d8e73adcd6f4c6b4b95832e7b25c2931d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-places-10.0.1_c9b54ee1cf01403b274a1f250142119a2a7517bc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\4f1223257d9784da019d157c2eef2ec89851e214\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_183ebd90baa97dbcb96034dd8f96beb742cd0fa0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\98e83509584c22c36f231e5d5592ab1a2e6c5078\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4513d31d868821ae7ed9554913ada7528b4f72e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.0.1_5cccada2f0b3bbe201fdd1cbca227dc3036a778b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-10.0.1_b8688514144e561670966dd671d698689725a1d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-10.0.1_41a748821429f177da80e2ecb6c292cfbfc1230c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\097cfb3788634a12381404bbe0b3ce4b135597aa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bc5b96cc05031af10051f2dcb1501411bcf68570\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_35f24633319438eb12bf1b8a5fef58db4051c978.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-10.0.1_b61819b1573aac63f35814b184a18577c3317581.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-10.0.1_c6396697cd8ede7704ed61db82cb0545c8c12818.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-10.0.1_81ceb0fa78b706ce6a10af827059d84810f529f6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7f5c024cb782337115452ee5681a3bba48b5c1b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\f01ab9f418ea9cbc2e097d82c5ef04b5a98ad46a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_279a7a8639df476d23604a91ab5292cd758090ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\602201bbf1cc7987b05288be602fb7b1be62f13a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1468e805f322d3fd444466bc0547caec0178c096\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\cdda01762f19a0ab27dfcf423c4a068ca119d5a4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_37feeb3d8a57092be425023d0a261be63e16416a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\b735120bc7422eac9a72f84bb6e6e42cc66df928\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9028b60f1cbd3c94e055e0ca81dfe5ecda30ed35\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_8de5fb2a6c7b08c6e7fa0e994b04a8a757f0fa64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-api-10.0.1_ae6ed9dd83c6eabf56242957f5d497e7db912d7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.0.1_327901ea76319991a453d595d61e03565c41494b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\d1c0a151a3ed5b43437348645a4c66ce8a4c01d2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8fb0c5919e2d2a4242cf450690c5d93903149ce8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\0d0161e3b8be8ac1e0dd1946cf00b3445151f461\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d786028c09045ed87893c72ebcc241b7e003b4cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\a657b73db204a55c222aeaf3c7d0f0b7c4ef204f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fb8f1b0678428bda8b75cbf3c77368eb059ba7bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-10.0.1_ab4eb0cf89b9213362e89760d055f866a5cf5beb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\77caafaf58af361a8378d02039671d58f8d17ad0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c9a05734043ffab6e42486e72e1611457f024e98\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_7051a8aed851981e1ce6160332e56344aba56f87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-10.0.1_0922e92a55bdad171ab61621beeafe9bdfae7fce.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\2634154319bdba83daa3d0f59ea3fb27400c74c8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f19014afb6e57b3ebb4e491366c4b663346e0d6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\ccf41b033f39b017d4e2bbb44d0a07295f61b356\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8912164b2ea4e965840bcdc9f31f72cfb7d2b364\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-10.0.1_e326915b0dac7a327d222778345a0e4f9cc861e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_62a03421122aece0d4eb44244c83a7e539c14fc1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Gradle\gradle-3.5-all\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\hamcrest-core-1.3_9a0a82399c6e6956d4ecca9ed288581d1c386817\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-24.0.0_df7a709df4d64185aee25e60e283196129684f08.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\acf1a7833cda14d13e5383dd0519c88d25dfb1e4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_25e35538b9c61e4e2df36105eb205a5e99b3d392\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\bcfd2b8cfc0595b404a3f52b810a28d84d155706\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_93011bf1bc4c710c4d16f76300df8d4bf425c077\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Gradle\gradle-3.5-all\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\junit-4.12_debac0bddf0956bcbb2192755983a406c1dfebbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.1_776f3ab98a3679c3931e1c05a4620cce50daaf54.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\61000d93b6994ab3409dea8e34d7bc7b01ba3d89\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_24790b56e7f6be366ea9691d4c1fd37336ffa3f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-10.0.1_17a024b0dada25b5dd0b03e3860966a0b62d6572.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-10.0.1_9fbe034d06a3ef5cc6dd02a442201ab41cd20a14.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\4d42b4a265a6d2d47d78957bd3670aa196852439\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_25ace63ca407e935f310cd6d502ecfc6140ee042\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\e55d72d4c1a94e1d79b9ae96ade6304cd5d5b25f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_540e55428983b6984f8935af420a098f10f4af1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_fb9ce0c65b590d127c2895942f91c6acab35d893.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-10.0.1_bba3b268148c60bcd09ea4f1aa4284be77e16cfa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\bfba9f226670b89b35cfe9a28ce4bdb346469637\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_14869f5cfbdf72f6768fef85d3c9a7b4bc206624\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dd1ad5b3bfff31f9bad176be218f8bdf265a23a">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e90b3580d79e280707f2a83ffdcd7a8da842ee12\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-10.0.1_7e3c360fe3794fd2c5fb924a4401d3713f7455c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-10.0.1_b07e2f8b0c5232a300bf9cd63abac3dc853e6c33.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_b99665049711028084c8737f4a993cc6a895f95e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-10.0.1_de037732e50f61c48a67e1dbc88e9123fecb23be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-framework-10.0.1_fed71d0a966ff81628e38a06c9b73824dc4be13b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-10.0.1_a738b3910be28b8cdb5aa18bfb56b70ef41b7682.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Gradle\gradle-3.5-all\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\hamcrest-core-1.3_9a0a82399c6e6956d4ecca9ed288581d1c386817.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Gradle\gradle-3.5-all\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\junit-4.12_debac0bddf0956bcbb2192755983a406c1dfebbf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\41e3797659e061a66a842cd08db8f588c082c526\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d8494995a3cd7a0f4df71345688ec9fb4f986498\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-10.0.1_bdd6090b8193e1ee9a9a46655b21bcc725b3bfde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_b99665049711028084c8737f4a993cc6a895f95e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\1bd5ff978654d1a4526deb6511e8ed30a88c1345\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a949b0a431016df16e01ffddf22f9e6d7c278f87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\0830c1b8a31be45e2ce2f701cf7ce7f182ab54ae\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_953c343f1af66374c9991d6426945872146d3abf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\d7f68b5c1f1a00f4bdc7fbc7ea80772998d6ef60\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3f766a785cb24f731af69fa62314826ec18cebc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\0790e352f86ddd34d6e1a3997d2dd4996a42528a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_435eb1d5ec527cfd1d133d9558a446e9abd0188b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\763aef95c9b6defc8cb2045ec1b30fec099fb080\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_25c6b88b2db3961ddcc79e1645a4eac836f72d4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\ff5e04312c2aff036fac5bfb7a35883acbf5b00c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_71e0e2863681c22fac5c10acaa7b245eaa1ad840\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-10.0.1_6c23fcbcedc762320787ec124e43ada35d311067.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\1e36189078b83c5e8e5c7a2427df0f7912ef7831\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b44d5ead5f9e6d0e8363d4cfe0c822bc29436f92\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-10.0.1_3ce2f5f98331c19dbbb6ad5aca521d5ebbcad859.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\80a70131e64ce0137852849f6cd13e13d032158a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_46e3caaaa5f39a02762a0b54a45c96589e3bbbb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\432004fad92a2ef663a2ef564ca7858127faaf65\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6edb5fabe4a5a0530ee459a9fa7768d31a6c94e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\1fe9f738760d3a7262b39b43fdf02863aa16cbff\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e9d1fe918de14a466021d919b7e29c79b9b9963d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\139942fd6208f1ea2f54c37d46e8d7c350a869a9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3e764cf7a96cc660a48a826c74f43d39d69c9a1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\3783d060e73e71ec88eaeba85ad557d8028f6578\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_be53e453e2d7fd28a69a7731d6e93d09bafb6f29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\b216155d18f40bda18c2a4ead03607d85e29ec09\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8ba6c05e074df5b83dd7c81af5b68b2c9d6d7b98\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-10.0.1_dd407a5cbd487677ade291b52631e31e482a24fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-10.0.1_ac423cced541eb7d0f9f8a8610b5737b5340a20f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_0639e6438ab53cd1c2895598b94e79f39537276d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-10.0.1_eaf8144cca795b7431f44889bdae904027f9e2e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-24.0.0_a8d0d1bfeb8c1f97bcb743b819e3644a874d6087.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\943b503171a1f15a9ee567cd1f2ce5fbf0584397\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f69eccb29f40a62dfe87988303497c87342757e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-10.0.1_dbc4246f34573d70bc4601413fff7a8478e306d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_6f16b4640635068b2b87131661dff4707e7fb86c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\0a0efb8ecead185a978f0d4eb0040b8fca627a8e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ec585cadc3dbfce9c5cdafa2c8756adf0f90dbd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-appindexing-10.0.1_77db5ad6a72ffca4b31861cdfc31db4fb7a59a50.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\65fab9651291661f4b459ea9b16e978561249d6a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_59e64de34af9842cd001d1571400767b483d3e28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\082c7808656a91c6096acb7d197dbd239645b8bb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0f4e29bb5295a6da30d455d3222b9c076430dbe7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-10.0.1_7345c1fb7e007c0d8f1db11a0d86881cd99ce948.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\7223b86c515dbd5a0b54cd2d6f42daf641002a2f\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_1ccb0f74751cefe383b85ce6981538d2f32d5c77\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_de9eb949ce7c1b4da6ec597eb2fcba16b807c6d1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Parth Makadiya\.android\build-cache\dd842d4009b889bf75db1e3c533f081193d94e9b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ef73e97fdcc8dc49bb4c870537183364db4ad341\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AAA BackUp\Maps\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="D:\AAA BackUp\Maps\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.0.1_fb3b24239bfdade5e4a7159ed653f73389118754.jar" />
+    </item>
+
+</items>
